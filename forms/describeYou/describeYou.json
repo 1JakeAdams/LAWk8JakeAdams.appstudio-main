@@ -16,7 +16,25 @@
         "forms",
         "describeYou",
         "Elements",
-        "lblPrompt2.json"
+        "rbtnCharacter.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "btnExercise.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "describeYou",
+        "Elements",
+        "Label1.json"
       ]
     }
   ],
@@ -34,13 +52,11 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "describeYou.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",

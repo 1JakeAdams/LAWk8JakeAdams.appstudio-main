@@ -34,14 +34,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "describeYou",
-            "describeYou.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "favExercises",
             "favExercises.json"
           ]
@@ -52,6 +44,14 @@
             "forms",
             "mobileNav",
             "mobileNav.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "describeYou",
+            "describeYou.json"
           ]
         }
       ],
@@ -76,7 +76,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "dessertVoting",
+      "firstform": "mobileNav",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
